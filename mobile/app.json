@@ -1,0 +1,12 @@
+{
+	"expo": {
+		"name": "HMS Mobile",
+		"slug": "hms-mobile",
+		"version": "0.1.0",
+		"sdkVersion": "51.0.0",
+		"platforms": ["ios", "android", "web"],
+		"extra": {
+			"apiBaseUrl": "http://localhost:8000"
+		}
+	}
+}
